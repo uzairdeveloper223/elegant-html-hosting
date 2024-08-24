@@ -21,18 +21,18 @@
 
 1. **Clone the Repository**:
    ```
-git clone https://github.com/uzairdeveloper223/elegant-html-hosting-script.git
+   git clone https://github.com/uzairdeveloper223/elegant-html-hosting-script.git
    cd elegant-html-hosting
    ```
 
 2. **Make the Script Executable**:
    ```
-chmod +x elegant-html-hosting.sh
+   chmod +x elegant-html-hosting.sh
    ```
 
 3. **Run the Script**:
    ```
-./elegant-html-hosting.sh
+   ./elegant-html-hosting.sh
    ```
 
 4. **Follow the Prompts**:
