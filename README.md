@@ -47,8 +47,8 @@ Run this command and enter , enter and enter three times or four.
 ssh-keygen
 ```
 ### To get Internet hosted url 
-you will get this display when you select internet hosting for here this is you url and you can also use the QR code 
-[Image](img.png)
+you will get this display when you select internet hosting for here this is your url and you can also use the QR code 
+![Getting url](img.png)
 ## Example Usage
 
 ### Host Your Own File
