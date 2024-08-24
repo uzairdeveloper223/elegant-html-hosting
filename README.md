@@ -49,6 +49,7 @@ ssh-keygen
 ### To get Internet hosted url 
 you will get this display when you select internet hosting for here this is your url and you can also use the QR code 
 ![Getting url](img.png)
+this will be different for you 
 ## Example Usage
 
 ### Host Your Own File
