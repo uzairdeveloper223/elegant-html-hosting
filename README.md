@@ -21,7 +21,7 @@
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/uzairdeveloper223/elegant-html-hosting-script.git
+   git clone https://github.com/uzairdeveloper223/elegant-html-hosting.git
    cd elegant-html-hosting
    ```
 
