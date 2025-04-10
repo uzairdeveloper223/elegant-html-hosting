@@ -76,7 +76,7 @@ Local hosting will continue. Use Ctrl + C to stop the server.
 
 ## Acknowledgments
 
-This script was created by **UZAIRxDEV223** with the assistance of **ChatGPT**. Special thanks to ChatGPT for providing valuable guidance throughout the development process. 😄
+This script was created by **UzairDeveloper223**. 😄
 
 ## License
 
