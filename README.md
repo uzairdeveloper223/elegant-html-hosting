@@ -41,7 +41,7 @@
    - If creating a demo, enter a word to be displayed on the generated page.
    - After local hosting, choose whether to make the page accessible on the internet to host any file on internet do only for once which is shown down below.
 
-### Guide to host on Internet only once.
+### Guide to host on Internet only once to execute the command.
 Run this command and enter , enter and enter three times or four.
 ```
 ssh-keygen
